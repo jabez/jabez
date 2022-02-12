@@ -20,7 +20,7 @@ Um cara fascinado por tecnologia e o seu impacto no nosso dia a dia!
 [![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&link=https://portal.azure.com/)](https://portal.azure.com/)
 
 ### Status 📈📈📈
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/jabez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabez&layout=compact&langs_count=7&theme=dracula"/>
