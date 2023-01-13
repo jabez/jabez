@@ -9,7 +9,6 @@ Um cara fascinado por tecnologia e o seu impacto no nosso dia a dia!
 ### 👩‍💻 Trabalho com 👇
 [![C# Badge](https://img.shields.io/badge/c%23-782A90.svg?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://docs.microsoft.com/pt-br/dotnet/csharp/)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [![Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&link=https://dotnet.microsoft.com/)](https://dotnet.microsoft.com/)
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 [![Git Badge](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![GitHub Badge](https://img.shields.io/badge/github-000.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/)](https://github.com/)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&link=https://www.postman.com/)](https://www.postman.com/)
